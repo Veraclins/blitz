@@ -144,7 +144,7 @@
     "babel-plugin-transform-inline-environment-variables": "0.4.3",
     "concurrently": "6.0.0",
     "cross-env": "7.0.3",
-    "cypress": "6.2.1",
+    "cypress": "13.0.0",
     "debug": "4.3.1",
     "delay": "4.4.1",
     "directory-tree": "2.2.5",
