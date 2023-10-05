@@ -32,7 +32,7 @@
     "react": "0.0.0-experimental-6a589ad71",
     "react-dom": "0.0.0-experimental-6a589ad71",
     "react-final-form": "6.5.2",
-    "zod": "3.10.1"
+    "zod": "3.22.3"
   },
   "devDependencies": {
     "@types/preview-email": "2.0.0",
